@@ -1,0 +1,20 @@
+.parent{
+    width: 100%;
+    background-color: darkgreen;
+}
+div{
+    margin: 1%;
+    float: left;
+    width: calc(94%/3);
+    background-color: cornflowerblue;
+    border-radius:20px ;
+    text-align: center;
+    font-size: 35px;
+    color: antiquewhite;
+    position: relative;
+    }
+    img{
+        width: 230px;
+        height: 230px;
+        border-radius: 200px;
+        }
